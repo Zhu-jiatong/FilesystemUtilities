@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FilesystemUtilities", "FilesystemUtilities.vcxitems", "{675392BA-AB76-4B03-B881-C14F0ACE66C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicExample", "examples\BasicExample\BasicExample.vcxproj", "{7DEAFC06-E112-4194-9A53-29D4AC507D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|ARM.Build.0 = Debug|ARM
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|ARM.Deploy.0 = Debug|ARM
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|ARM64.Build.0 = Debug|ARM64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|x64.ActiveCfg = Debug|x64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|x64.Build.0 = Debug|x64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|x64.Deploy.0 = Debug|x64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|x86.ActiveCfg = Debug|x86
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|x86.Build.0 = Debug|x86
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Debug|x86.Deploy.0 = Debug|x86
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|ARM.ActiveCfg = Release|ARM
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|ARM.Build.0 = Release|ARM
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|ARM.Deploy.0 = Release|ARM
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|ARM64.ActiveCfg = Release|ARM64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|ARM64.Build.0 = Release|ARM64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|ARM64.Deploy.0 = Release|ARM64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|x64.ActiveCfg = Release|x64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|x64.Build.0 = Release|x64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|x64.Deploy.0 = Release|x64
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|x86.ActiveCfg = Release|x86
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|x86.Build.0 = Release|x86
+		{7DEAFC06-E112-4194-9A53-29D4AC507D13}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F798742F-06E4-4763-BC21-947BFDC2A965}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		FilesystemUtilities.vcxitems*{675392ba-ab76-4b03-b881-c14f0ace66c7}*SharedItemsImports = 9
+		FilesystemUtilities.vcxitems*{7deafc06-e112-4194-9a53-29d4ac507d13}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
